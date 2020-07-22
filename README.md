@@ -20,8 +20,9 @@
 
 <br/>
 
+## More about me...
 
-## Yoo, I'm GengchenXU :wave:
+### Yoo, I'm GengchenXU :wave:
 - 🔭 I’m currently working on something **cool** :wink:
 - 🏢 I’m focusing on studying and coding.
 - :seedling: I’m currently learning C++ and python.
