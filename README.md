@@ -1,13 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-### Yoo, I'm GengchenXU :wave:
+## Yoo, I'm GengchenXU :wave:
 - 🔭 I’m currently working on something **cool** :wink:
 - 🏢 I’m focusing on studying and coding.
 - :seedling: I’m currently learning C++ and python.
 - :zap: I like :ping_pong: :volleyball: :swimming_man: :computer:
 - :school: Ocean University of China
 
-### How to reach me :beers:
+## How to reach me :beers:
 
 <a href="https://www.linkedin.com/in/%E5%BA%9A%E8%BE%B0-%E5%BE%90-5452431ab/">
   <img align="left" alt="XU's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -22,8 +22,8 @@
   <img align="left" alt="XU's leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/leetcode.svg" />
 </a>
 
+### Email
 
-#### Email
 - :email: xgcjishigudu@gmail.com
 
 
