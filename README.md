@@ -18,9 +18,13 @@
 <a href="https://t.me/if_true_return_false">
   <img align="left" alt="XU's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="xgcjishigudu@gmail.com">
-  <img align="left" alt="XU's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
+<a href="https://leetcode-cn.com/u/ji-shi-gu-du-yi-jiu-qian-xing/">
+  <img align="left" alt="XU's leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/leetcode.svg" />
 </a>
+
+
+#### Email
+- :email: xgcjishigudu@gmail.com
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GengchenXU&show_icons=true&theme=radical)
