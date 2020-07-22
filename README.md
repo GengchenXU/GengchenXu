@@ -18,7 +18,9 @@
   <img align="left" alt="XU's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
 </a>
 
-<br />
+<br/>
+
+
 ## Yoo, I'm GengchenXU :wave:
 - 🔭 I’m currently working on something **cool** :wink:
 - 🏢 I’m focusing on studying and coding.
@@ -28,7 +30,7 @@
 
 ### Email
 
-- :email: xgcjishigudu@gmail.com
+- :email: <xgcjishigudu@gmail.com>
 
 ### Show some ❤️ by starring some of the repositories!
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GengchenXU&show_icons=true&theme=radical)
