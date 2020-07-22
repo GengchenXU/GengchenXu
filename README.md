@@ -1,11 +1,6 @@
 # Hi there 👋
 
-## Yoo, I'm GengchenXU :wave:
-- 🔭 I’m currently working on something **cool** :wink:
-- 🏢 I’m focusing on studying and coding.
-- :seedling: I’m currently learning C++ and python.
-- :zap: I like :ping_pong: :volleyball: :swimming_man: :computer:
-- :school: Ocean University of China
+
 
 ## How to reach me :beers:
 
@@ -21,6 +16,16 @@
 <a href="https://leetcode-cn.com/u/ji-shi-gu-du-yi-jiu-qian-xing/">
   <img align="left" alt="XU's leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/leetcode.svg" />
 </a>
+<a href="https://www.instagram.com/kenneth_xu_forever/">
+  <img align="left" alt="XU's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+</a>
+
+## Yoo, I'm GengchenXU :wave:
+- 🔭 I’m currently working on something **cool** :wink:
+- 🏢 I’m focusing on studying and coding.
+- :seedling: I’m currently learning C++ and python.
+- :zap: I like :ping_pong: :volleyball: :swimming_man: :computer:
+- :school: Ocean University of China
 
 ### Email
 
