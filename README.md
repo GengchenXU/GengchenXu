@@ -1,7 +1,5 @@
 # Hi there 👋
 
-
-
 ## How to reach me :beers:
 
 <a href="https://www.linkedin.com/in/%E5%BA%9A%E8%BE%B0-%E5%BE%90-5452431ab/">
@@ -20,6 +18,7 @@
   <img align="left" alt="XU's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
 </a>
 
+<br />
 ## Yoo, I'm GengchenXU :wave:
 - 🔭 I’m currently working on something **cool** :wink:
 - 🏢 I’m focusing on studying and coding.
@@ -31,5 +30,5 @@
 
 - :email: xgcjishigudu@gmail.com
 
-
+### Show some ❤️ by starring some of the repositories!
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GengchenXU&show_icons=true&theme=radical)
