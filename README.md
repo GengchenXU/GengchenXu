@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on something **cool** :wink:
 - 🏢 I’m focusing on studying and coding.
 - :seedling: I’m currently learning C++ and python.
-- :zap: I like :ping_pong: :volleyball: :swimming_man: :computer:
+- :zap: I like :ping_pong: :volleyball: :swimming_man: :computer:🤿🎾
 - :school: Ocean University of China
 
 ### Email
