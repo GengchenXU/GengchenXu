@@ -31,7 +31,7 @@
 
 ### Email
 
-[![Mail](https://img.shields.io/badge/-xgcjishigudu@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/%E5%BA%9A%E8%BE%B0-%E5%BE%90-5452431ab/)](mailto:xgcjishigudu@gmail.com)
+[![Mail](https://img.shields.io/badge/-xgcjishigudu@gmail.com-gray?style=flat-square&logo=gmail&logoColor=blue&link=https://www.linkedin.com/in/%E5%BA%9A%E8%BE%B0-%E5%BE%90-5452431ab/)](mailto:xgcjishigudu@gmail.com)
 
 ### Show some ❤️ by starring some of the repositories!
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GengchenXU&show_icons=true&theme=radical)
