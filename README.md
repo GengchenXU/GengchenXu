@@ -34,4 +34,4 @@
 [![Mail](https://img.shields.io/badge/-xgcjishigudu@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:xgcjishigudu@gmail.com)
 
 ### Show some ❤️ by starring some of the repositories!
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GengchenXU&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GengchenXU&show_icons=true&theme=tokyonight)
