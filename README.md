@@ -17,6 +17,9 @@
 <a href="https://www.instagram.com/kenneth_xu_forever/">
   <img align="left" alt="XU's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
 </a>
+<a href="https://github.com/GengchenXU/GengchenXu/blob/master/mmqrcode1597635358523.png">
+  <img align="left" alt="XU's WeChat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/wechat.svg" />
+</a>
 
 <br/>
 
