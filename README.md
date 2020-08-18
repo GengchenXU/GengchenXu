@@ -1,5 +1,15 @@
 # Hi there 👋
 
+## About me...
+
+##### Yoo, I'm GengchenXu :wave:
+- 🔭 I’m currently working on something **cool** :wink:
+- 🏢 I’m focusing on studying and coding.
+- 🧭: I’m currently learning C++ and python.
+- :zap: I like :ping_pong: :volleyball: :swimming_man: :computer:🤿🎾📱
+- 🏫: Ocean University of China
+- ✨ I'm intereted in 🚀🛰🛸🌀
+
 ## How to reach me :beers:
 
 <a href="https://www.linkedin.com/in/%E5%BA%9A%E8%BE%B0-%E5%BE%90-5452431ab/">
@@ -23,15 +33,6 @@
 
 <br/>
 
-## More about me...
-
-##### Yoo, I'm GengchenXu :wave:
-- 🔭 I’m currently working on something **cool** :wink:
-- 🏢 I’m focusing on studying and coding.
-- :seedling: I’m currently learning C++ and python.
-- :zap: I like :ping_pong: :volleyball: :swimming_man: :computer:🤿🎾📱
-- :school: Ocean University of China
-- ✨ I'm intereted in 🚀🛰🛸🌀
 
 ### Email
 
