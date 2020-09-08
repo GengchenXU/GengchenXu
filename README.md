@@ -47,3 +47,8 @@
 #### Proletarier aller Länder, vereinigt euch!  
 #### Пролетарии всех стран ,соединяйтесь!  
 #### 万国の労働者よ、団结せよ!
+#### يا عمال العالم اتحدوا!‎ 
+#### 만국의 노동자들이여, 단결하라!
+#### Proletoj el ĉiuj landoj, unuiĝu!
+#### ¡Trabajadores de todo el mundo, unimos!
+#### Trabalhadores do mundo, uni-vos! 
