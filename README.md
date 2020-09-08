@@ -40,3 +40,10 @@
 
 ### Show some ❤️ by starring some of the repositories!
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GengchenXU&show_icons=true&theme=tokyonight)
+  
+#### 全世界无产者，联合起来！    
+#### Working Men of All Countries, Unite!
+#### Prolétaires de tous les pays, unissez-vous!   
+#### Proletarier aller Länder, vereinigt euch!  
+#### Пролетарии всех стран ,соединяйтесь!  
+#### 万国の労働者よ、団结せよ!
