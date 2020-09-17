@@ -40,7 +40,10 @@
 
 ### Show some ❤️ by starring some of the repositories!
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GengchenXU&show_icons=true&theme=tokyonight)
-  
+
+target on CV engineer
+![test](https://github.com/GengchenXU/GengchenXu/blob/master/71a78262fd515566.jpg)
+
 #### 全世界无产者，联合起来！    
 #### Working Men of All Countries, Unite!
 #### Prolétaires de tous les pays, unissez-vous!   
