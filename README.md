@@ -39,8 +39,7 @@
 [![Mail](https://img.shields.io/badge/-xgcjishigudu@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:xgcjishigudu@gmail.com)
 
 ### Show some ❤️ by starring some of the repositories!
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GengchenXU&show_icons=true&theme=tokyonight)
-</a>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GengchenXU&show_icons=true&theme=tokyonight)  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GengchenXU&theme=nord&hide=css,ruby,html&layout=compact" alt="sitiom's Top Languages">
 
 ### Target on CV engineer  
