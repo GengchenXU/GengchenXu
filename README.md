@@ -45,8 +45,7 @@
 ### Target on CV engineer  
 #### CV means
 ![test](https://github.com/GengchenXU/GengchenXu/blob/master/71a78262fd515566.jpg)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GengchenXU&theme=nord&hide=css,ruby,html&layout=compact) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GengchenXU&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![TOPLANG](https://github-readme-stats.vercel.app/api/top-langs/?username=GengchenXU&theme=nord&hide=css,ruby,html&layout=compact) 
 
 #### 全世界无产者，联合起来！    
 #### Working Men of All Countries, Unite!
