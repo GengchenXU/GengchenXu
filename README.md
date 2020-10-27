@@ -40,6 +40,7 @@
 
 ### Show some ❤️ by starring some of the repositories!
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GengchenXU&show_icons=true&theme=tokyonight)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitiom&theme=nord&hide=css,ruby,html&layout=compact" alt="sitiom's Top Languages">
 
 ### Target on CV engineer  
 #### CV means
