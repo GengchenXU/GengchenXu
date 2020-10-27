@@ -40,11 +40,12 @@
 
 ### Show some ❤️ by starring some of the repositories!
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GengchenXU&show_icons=true&theme=tokyonight)  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GengchenXU&theme=nord&hide=css,ruby,html&layout=compact" alt="sitiom's Top Languages">
+
 
 ### Target on CV engineer  
 #### CV means
-![test](https://github.com/GengchenXU/GengchenXu/blob/master/71a78262fd515566.jpg)
+![test](https://github.com/GengchenXU/GengchenXu/blob/master/71a78262fd515566.jpg)  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GengchenXU&theme=nord&hide=css,ruby,html&layout=compact" alt="sitiom's Top Languages">
 
 #### 全世界无产者，联合起来！    
 #### Working Men of All Countries, Unite!
